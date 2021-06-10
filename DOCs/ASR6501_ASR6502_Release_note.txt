@@ -1,0 +1,36 @@
+Customer_Support_System
+
+
+Hardware_Release_V0.2
+   ASR6501/2 Datasheet
+   ASR6501/2 GPIO_SPEC
+   ASR6501/2 Reference Design
+       Key Component Datasheet
+           Crystal_32.768KHz
+           Crystal_32MHz
+           RF Switch
+       Module Schematic
+           ASR6501 Schematic
+           ASR6502 Schematic
+           ASR6501/2 硬件设计应用指南
+       Reference PCB
+           ASR6501 Layout
+           ASR6502 Layout
+           ASR6501_ASR6502_EVB_PCB封装库
+   ASR6501/2 Demo Board
+       Demo Board_Quick Start
+       Demo Board FW 烧录说明
+       Demo Board Serial Driver
+   ASR6501/2 Module_Test
+       ASR6501_ASR6502测试方法及步骤
+       ASR6501_ASR6502测试烧录文件
+       ASR6501_Test_Report_toCustomer
+
+
+Software_Release_V0.2
+       ASR6501/2-LoRA-SW-Release-Notes
+       ASR6501/2-AT-Commands-Introduction
+
+
+ASR6501/2 Q&A  
+       ASR6501_ASR6502_Q&A_V0.2  
